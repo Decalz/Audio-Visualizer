@@ -1,0 +1,21 @@
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\bin\Debug\AVBXR.exe.config
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\Spectrum.baml
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\Spectrum.g.cs
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR_MarkupCompile.cache
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR_MarkupCompile.lref
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\bin\Debug\AVBXR.exe
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\bin\Debug\AVBXR.pdb
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\bin\Debug\Bass.Net.dll
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\bin\Debug\Bass.Net.xml
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\ProgBar.g.cs
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\ProgBar.baml
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.g.resources
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.Properties.Resources.resources
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.exe
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.pdb
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.Form1.resources
+C:\Users\Johnny\Desktop\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Xhoni Robo COS SP\AVBXR\AVBXR\AVBXR\bin\Debug\AVBXR.exe.config
+C:\Users\Johnny\Desktop\Xhoni Robo COS SP\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.exe
+C:\Users\Johnny\Desktop\Xhoni Robo COS SP\AVBXR\AVBXR\AVBXR\obj\Debug\AVBXR.pdb
