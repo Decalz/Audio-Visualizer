@@ -1,0 +1,25 @@
+Thank you for registering BASS.NET API
+
+Please save this email, since it will contain your registration key and license agreement.
+
+Your Data:
+-------------------------------------------------------------
+License : FREEWARE
+Name : Jon Maden
+Address : Boulevard of Broken Deams, 1000, Alaska
+------------------------------------------------------------
+
+REGISTRATION DATA:
+------------------------------------------------------------
+Email-Address : Sted1988@fleckens.hu
+Registration-Key : 2X281830201658
+------------------------------------------------------------
+
+You might disable the splash screen by calling the following method prior to any other BASS method:
+BassNet.Registration(Sted1988@fleckens.hu, 2X281830201658)
+
+Providing wrong or incorrect registration data, in particular your email, name or postal address, will immediately terminate your license agreement and will revoke the right to further use this software!
+
+If you have further question, please send an email by simply replying to the sender.
+I hope you enjoy the BASS.NET API
+Bernd Niedergesaess, radio42
